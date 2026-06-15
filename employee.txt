@@ -5,3 +5,4 @@ Employee Name: John
 Department: QA
 Salary: 50000
 Address: Delhi
+Email: john@test.com
